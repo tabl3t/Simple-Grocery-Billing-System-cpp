@@ -28,6 +28,10 @@ Execute the Program:
 ./GrocerySystem
 
 # Screenshots
+<img width="2180" height="1500" alt="1" src="https://github.com/user-attachments/assets/d10cd9aa-fa22-4537-b6d1-40aa3e39dd04" />
+<img width="2180" height="1500" alt="2" src="https://github.com/user-attachments/assets/de494ce1-389e-4269-8b32-3f2a9eee9051" />
+<img width="2180" height="1500" alt="4" src="https://github.com/user-attachments/assets/56e66120-9945-4cfc-ba24-f9af56b8c0ea" />
+
 
 # File Structure
 main.cpp: Contains the complete source code.
